@@ -1,0 +1,7 @@
+automation/LandingPage.class
+automation/MobileBasePage.class
+steps/TestRunner.class
+steps/AndroidApp.class
+automation/AppTest.class
+start/driver/AppiumWrapper.class
+automation/PageFunctions.class
